@@ -1,6 +1,6 @@
 Text Classification with several algrithms.
 
-##Require 
+## Require 
 - python 3.6
 - numpy  1.15.1
 - pillow 5.2.0 
